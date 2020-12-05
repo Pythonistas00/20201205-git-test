@@ -1,3 +1,4 @@
+# 20201205 18:59 add this annotation in testing branch
 import os
 def text_GeneAndExtr(images_Path, Path):
     train_Path = images_Path + "\\train.txt"
